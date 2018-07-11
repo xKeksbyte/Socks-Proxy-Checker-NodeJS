@@ -1,2 +1,3 @@
 # Socks-Proxy-Checker-NodeJS
-its a socks checker for nodejs
+start intall-tutorial
+on linux you know ;p
